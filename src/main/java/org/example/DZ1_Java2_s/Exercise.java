@@ -10,6 +10,7 @@ public abstract class Exercise {
 
     abstract boolean onDistance(); // Если участник onDistance == true, выводим его
 
+
     public void information() {
     }
 }

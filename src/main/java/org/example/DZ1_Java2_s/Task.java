@@ -32,7 +32,6 @@ class TaskThree extends Task{
         exercise.stealThePrincess(height);
     }
 }
-
 class MainCourse {
     public static void main(String[] args){
         Exercise[] exercises ={new Dracula("Dracula"),new Hydra("Hydra"),new Kong("Kong") };

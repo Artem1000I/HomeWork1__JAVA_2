@@ -3,7 +3,6 @@ package org.example.DZ1_Java2_s;
 public class FantasticBeasts extends Exercise {
 
     String type;
-
     String name;
 
     int maxSinkTheShipDistance;

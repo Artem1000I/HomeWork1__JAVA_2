@@ -28,7 +28,6 @@ public class Dracula extends Exercise {
             System.out.println(name+" Не смог потопить корабль.");
             active = false;
         }
-
     }
 
     @Override

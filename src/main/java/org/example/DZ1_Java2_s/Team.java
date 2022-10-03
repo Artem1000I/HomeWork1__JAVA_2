@@ -10,7 +10,6 @@ public class Team {
     FantasticBeasts[] monsters ={new Hydra("Cunning"), new Kong("King")};
 
     //Формируем команду
-
     public Team(String nameTeam, Exercise team1,Exercise team2,Exercise team3){
         this.nameTeam = nameTeam;
 
